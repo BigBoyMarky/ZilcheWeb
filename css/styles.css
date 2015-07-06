@@ -1,0 +1,48 @@
+body {
+  font-family: proxima-nova, sans-serif;
+}
+.row1 {
+  /*background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.5)), to(rgba(0,0,0,0.0)));*/
+  background-color:green;
+}
+.row1 h1 {
+  color:white;
+}
+.row1 p {
+  color:white;
+}
+.row2 {
+  /*background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,0.0)), to(rgba(0,0,0,0.5)));*/
+}
+.row2 h1 {
+  color:black;
+}
+.row2 p {
+  color:black;
+}
+.centering {
+  text-align:center;
+}
+h1 {
+  font-size:1000%;
+}
+h2 {
+  font-size:400%;
+}
+.page1 {
+  background-image: url("../images/background1.jpg");
+  background-size:cover;
+}
+.page1 h1, h2 {
+  color:#ffffff;
+}
+.page2 {
+  background-image: url("../images/background1.jpg");
+  background-size:cover;
+}
+.page2 h1, h2 {
+  color:#ffffff;
+}
+.page2 h2 {
+  font-size:200%;
+}
